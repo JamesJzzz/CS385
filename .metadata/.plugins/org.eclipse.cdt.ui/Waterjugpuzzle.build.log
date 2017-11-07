@@ -1,0 +1,6 @@
+00:27:41 **** Incremental Build of configuration Default for project Waterjugpuzzle ****
+make all 
+g++ -g -Wall -Werror -pedantic-errors -fmessage-length=0 waterjugpuzzle.cpp -o waterjugpuzzle
+
+00:27:43 Build Finished (took 1s.398ms)
+

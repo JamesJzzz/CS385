@@ -1,0 +1,6 @@
+15:54:51 **** Incremental Build of configuration Default for project binarytreee ****
+make all 
+g++ -g -Wall -Werror -pedantic-errors -fmessage-length=0 binarytree.cpp -o binarytree
+
+15:54:51 Build Finished (took 331ms)
+

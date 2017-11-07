@@ -1,0 +1,9 @@
+15:09:05 **** Incremental Build of configuration Default for project CS 385 practice ****
+make all 
+g++ -g -Wall -Werror -pedantic-errors -fmessage-length=0 gcd.cpp practice.cpp -o gcd practice
+collect2: error: ld terminated with signal 11 [Segmentation fault: 11]
+ld: can't link with a main executable file 'practice' for architecture x86_64
+make: *** [all] Error 1
+
+15:09:06 Build Finished (took 620ms)
+

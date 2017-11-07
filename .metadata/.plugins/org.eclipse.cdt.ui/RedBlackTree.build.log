@@ -1,0 +1,6 @@
+19:19:22 **** Incremental Build of configuration Default for project RedBlackTree ****
+make all 
+g++ -g -Wall -Werror -pedantic-errors -fmessage-length=0 testrbt.cpp -o testrbt
+
+19:19:24 Build Finished (took 1s.719ms)
+

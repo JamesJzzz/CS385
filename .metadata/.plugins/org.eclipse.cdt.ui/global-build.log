@@ -1,0 +1,6 @@
+23:23:17 **** Build of configuration Default for project Stairclimber ****
+make all 
+g++ -g -Wall -Werror -pedantic-errors -fmessage-length=0 stairclimber.cpp -o stairclimber
+23:23:22 **** Incremental Build of configuration Default for project Stairclimber ****
+make all 
+g++ -g -Wall -Werror -pedantic-errors -fmessage-length=0 stairclimber.cpp -o stairclimber

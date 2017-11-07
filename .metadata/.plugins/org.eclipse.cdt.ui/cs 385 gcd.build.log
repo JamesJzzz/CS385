@@ -1,0 +1,6 @@
+13:04:08 **** Build of configuration Default for project cs 385 gcd ****
+make all 
+g++ -g -Wall -Werror -pedantic-errors -fmessage-length=0 gcd.cpp -o gcd
+
+13:04:09 Build Finished (took 779ms)
+

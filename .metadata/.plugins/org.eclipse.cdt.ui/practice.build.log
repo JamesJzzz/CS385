@@ -1,0 +1,6 @@
+20:15:21 **** Incremental Build of configuration Default for project practice ****
+make all 
+g++ -g -Wall -Werror -pedantic-errors -fmessage-length=0 multipleof35.cpp -o multipleof35
+
+20:15:21 Build Finished (took 389ms)
+

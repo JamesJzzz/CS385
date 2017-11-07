@@ -1,0 +1,30 @@
+15:29:11 **** Incremental Build of configuration Default for project BInaryTree ****
+make all 
+g++ -g -Wall -Werror -pedantic-errors -fmessage-length=0 binarytree.cpp -o binarytree
+binarytree.cpp: In function 'Node* lowest_common_ancestor(Node*, Node*)':
+binarytree.cpp:22:1: error: no return statement in function returning non-void [-Werror=return-type]
+ }
+ ^
+binarytree.cpp: In function 'Node* create_bst(int*, int)':
+binarytree.cpp:36:34: error: expected ')' before 'length'
+  return create_bst_helper(data,0 length - 1,0);
+                                  ^
+binarytree.cpp:36:46: error: too few arguments to function 'Node* create_bst_helper(int*, int, int, int)'
+  return create_bst_helper(data,0 length - 1,0);
+                                              ^
+binarytree.cpp:24:7: note: declared here
+ Node* create_bst_helper(int data[], int low, int high, int level){
+       ^
+binarytree.cpp: In function 'bool is_bst(Node*, int*, int*)':
+binarytree.cpp:41:1: error: no return statement in function returning non-void [-Werror=return-type]
+ }
+ ^
+binarytree.cpp: In function 'Node* create_bst(int*, int)':
+binarytree.cpp:37:1: error: control reaches end of non-void function [-Werror=return-type]
+ }
+ ^
+cc1plus: all warnings being treated as errors
+make: *** [all] Error 1
+
+15:29:11 Build Finished (took 196ms)
+

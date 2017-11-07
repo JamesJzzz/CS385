@@ -1,0 +1,26 @@
+23:34:25 **** Build of configuration Debug for project gcd ****
+make all 
+Building file: ../gcd.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"gcd.d" -MT"gcd.o" -o "gcd.o" "../gcd.cpp"
+../gcd.cpp:2:1: warning: "/*" within comment [-Wcomment]
+ /*
+ ^
+../gcd.cpp:36:2: error: stray '\345' in program
+  *  Created on: 2016年1月21日
+  ^
+../gcd.cpp:36:2: error: stray '\271' in program
+../gcd.cpp:36:2: error: stray '\264' in program
+../gcd.cpp:36:2: error: stray '\346' in program
+../gcd.cpp:36:2: error: stray '\234' in program
+../gcd.cpp:36:2: error: stray '\210' in program
+../gcd.cpp:36:2: error: stray '\346' in program
+../gcd.cpp:36:2: error: stray '\227' in program
+../gcd.cpp:36:2: error: stray '\245' in program
+../gcd.cpp:34:7: error: expected constructor, destructor, or type conversion before '.' token
+  * gcd.cpp
+       ^
+make: *** [gcd.o] Error 1
+
+23:34:25 Build Finished (took 241ms)
+

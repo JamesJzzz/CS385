@@ -1,0 +1,6 @@
+15:32:16 **** Build of configuration Default for project Unique ****
+make all 
+g++ -g -Wall -Werror -pedantic-errors -fmessage-length=0 unique.cpp -o unique
+
+15:32:17 Build Finished (took 276ms)
+

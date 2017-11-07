@@ -1,0 +1,6 @@
+20:38:58 **** Incremental Build of configuration Default for project problem2 ****
+make all 
+g++ -g -Wall -Werror -pedantic-errors -fmessage-length=0 problem2fib.cpp -o problem2fib
+
+20:38:59 Build Finished (took 390ms)
+

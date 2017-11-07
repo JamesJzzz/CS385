@@ -1,0 +1,11 @@
+19:35:41 **** Incremental Build of configuration Default for project ProjectEuler ****
+make all 
+g++ -g -Wall -Werror -pedantic-errors -fmessage-length=0 multiple35.cpp -o multiple35
+multiple35.cpp:34:9: error: use of undeclared identifier 'sum'
+        cout<< sum <<endl;
+               ^
+1 error generated.
+make: *** [all] Error 1
+
+19:35:41 Build Finished (took 334ms)
+

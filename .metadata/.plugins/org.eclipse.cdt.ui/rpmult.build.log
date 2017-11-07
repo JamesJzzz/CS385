@@ -1,0 +1,6 @@
+19:21:48 **** Incremental Build of configuration Default for project rpmult ****
+make all 
+g++ -g -Wall -Werror -pedantic-errors -fmessage-length=0 rpmult.cpp -o rpmult
+
+19:21:49 Build Finished (took 573ms)
+

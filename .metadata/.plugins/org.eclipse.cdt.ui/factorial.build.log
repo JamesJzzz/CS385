@@ -1,0 +1,11 @@
+19:51:21 **** Incremental Build of configuration Default for project factorial ****
+make all 
+g++ -g -Wall -Werror -pedantic-errors -fmessage-length=0 factorial.cpp -o factorial
+factorial.cpp:23:17: error: indirection requires pointer operand ('int' invalid)
+        int answer = 5** int(intlog(a,5));
+                       ^ ~~~~~~~~~~~~~~~~
+1 error generated.
+make: *** [all] Error 1
+
+19:51:21 Build Finished (took 335ms)
+

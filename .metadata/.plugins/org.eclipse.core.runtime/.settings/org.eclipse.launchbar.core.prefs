@@ -1,0 +1,10 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=macosx
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:stairclimber,org.eclipse.launchbar.core.descriptorType.default\:binarytree,org.eclipse.launchbar.core.descriptorType.default\:gcd,org.eclipse.launchbar.core.descriptorType.default\:multipleof35,org.eclipse.launchbar.core.descriptorType.default\:practice,org.eclipse.launchbar.core.descriptorType.default\:problem2fib,org.eclipse.launchbar.core.descriptorType.default\:sieve,org.eclipse.launchbar.core.descriptorType.default\:student,org.eclipse.launchbar.core.descriptorType.default\:unique,org.eclipse.launchbar.core.descriptorType.default\:knapsack,org.eclipse.launchbar.core.descriptorType.default\:testrbt,org.eclipse.launchbar.core.descriptorType.default\:rpmult,org.eclipse.launchbar.core.descriptorType.default\:databasehw1,org.eclipse.launchbar.core.descriptorType.default\:biginput,org.eclipse.launchbar.core.descriptorType.default\:factorial,org.eclipse.launchbar.core.descriptorType.default\:pe13 main.py,org.eclipse.launchbar.core.descriptorType.default\:pe13 pe13.py,org.eclipse.launchbar.core.descriptorType.default\:example
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:biginput/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:biginput/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:binarytree/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:binarytree/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:example/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:pe13\ main.py/activeLaunchMode=run

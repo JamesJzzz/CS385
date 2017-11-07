@@ -1,0 +1,6 @@
+17:55:20 **** Incremental Build of configuration Default for project biginput ****
+make all 
+g++ -g -Wall -Werror -pedantic-errors -fmessage-length=0 biginput.cpp -o biginput
+
+17:55:20 Build Finished (took 622ms)
+

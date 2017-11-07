@@ -1,0 +1,8 @@
+22:33:09 **** Incremental Build of configuration Default for project classpractice ****
+make all 
+g++ -g -Wall -Werror -pedantic-errors -fmessage-length=0 feb1.cpp labpractice.cpp -o feb1 labpractice
+g++: error: labpractice: No such file or directory
+make: *** [all] Error 1
+
+22:33:10 Build Finished (took 385ms)
+
